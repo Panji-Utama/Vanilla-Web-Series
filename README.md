@@ -29,7 +29,8 @@ This repository serves as a central hub for the VWS. You can navigate to each pr
 Feedback and contributions are highly appreciated. If you have any suggestions or want to contribute to any of the projects, please feel free to open an issue or a pull request.
 
 ## License
-This project is licensed under the [MIT License](link-to-license).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgements
 A special thanks to everyone who supports, contributes to, or uses this series for learning and inspiration.
