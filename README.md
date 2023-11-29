@@ -8,7 +8,7 @@ Welcome to the Vanilla Web Series (VWS) - a collection of web development projec
 ### 1. [Single Page Website](https://github.com/Panji-Utama/VWS-Project-1-Single-Page-Website)
 A simple, yet elegant single-page website demonstrating the fundamentals of web design and development.
 
-### 2. [Simple Inventory Manager](link-to-inventory-manager-repo)
+### 2. [Simple Inventory Manager](https://github.com/Panji-Utama/VWS-Project-2-Inventory)
 An application that allows users to manage a basic inventory system, showcasing CRUD operations and data handling.
 
 ### 3. [Interactive User Dashboard](link-to-user-dashboard-repo)
