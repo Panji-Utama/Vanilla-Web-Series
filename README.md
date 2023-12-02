@@ -11,7 +11,7 @@ A simple, yet elegant single-page website demonstrating the fundamentals of web 
 ### 2. [Simple Inventory Manager](https://github.com/Panji-Utama/VWS-Project-2-Inventory)
 An application that allows users to manage a basic inventory system, showcasing CRUD operations and data handling.
 
-### 3. [Interactive User Dashboard](link-to-user-dashboard-repo)
+### 3. [Interactive User Dashboard](link-to-user-dashboard-repo) (TBA)
 A dynamic and interactive dashboard for data visualization and user interaction, integrating APIs and advanced JavaScript functionalities.
 
 ## Technologies Used
